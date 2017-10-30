@@ -9,7 +9,7 @@ Create a nerw file and add to Gitj\hub account
 -$ git commit -m "first time" gitcomands.txt
 -$ git push -u origin master
 
-
+##use the keyboard arrow up key to reuse the previous typed commands
 
 
 
