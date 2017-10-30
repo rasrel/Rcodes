@@ -6,6 +6,13 @@ $ git clone https://github.com/rasrel/Rcodes.git
 Create a nerw file and add to Gitj\hub account
 -git add (file names)
 -git status
+-$ git commit -m "first time" gitcomands.txt
+-$ git push -u origin master
+
+
+
+
+
 
 other commands
 git clone (url)
